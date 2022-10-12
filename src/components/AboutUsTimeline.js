@@ -1,5 +1,5 @@
 import React from "react";
-import { Timeline, Grid, Row, Col } from "rsuite";
+import { Timeline } from "rsuite";
 
 const AlignTimeline = ({ align }) => (
   <Timeline align={align}>
